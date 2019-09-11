@@ -1,0 +1,16 @@
+.map-tile {
+    width: 30px;
+    height: 30px;
+}
+
+.snake {
+    background: green;
+}
+
+.food {
+    background: red;
+}
+
+.map-wall {
+    border: 4px solid black;
+}
